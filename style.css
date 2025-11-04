@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+p{
+    color: blue;
+    background-color: black;
+    text-align: center;
+    font-size: 85px;
+    padding: 80px;
+}
+
+div{
+    height: 500px;
+    width: 300px;
+    background-color: chartreuse;
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 50px;
+
+
+}
+.RS{
+    color: red;
+    background-color: bisque;
+}
+
+#l1{
+    color:yellow ;
+
+}
+
+#l2{
+    background-color: blueviolet;
+
+}
+
+#l3{
+    background-color: aquamarine;
+}
