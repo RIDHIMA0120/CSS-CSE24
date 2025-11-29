@@ -1,8 +1,17 @@
-#box {
-    background-color: blue;
-    /* color:aliceblue; */
+h2{
+    color:green;
 }
 
-/* .heading{
-    color: aqua;
-} */
+p{
+    color:rosybrown;
+}
+
+button{
+    color:brown;
+    background-color: bisque;
+}
+
+body{
+    background-color: black;
+}
+
