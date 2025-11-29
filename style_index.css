@@ -1,17 +1,11 @@
-h2{
-    color:green;
+#box {
+    background-color: blue;
+    }
+ button{
+    color: aquamarine;
+    background-color: blueviolet;
 }
 
-p{
-    color:rosybrown;
-}
 
-button{
-    color:brown;
-    background-color: bisque;
-}
 
-body{
-    background-color: black;
-}
 
