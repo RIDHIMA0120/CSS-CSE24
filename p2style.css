@@ -1,17 +1,9 @@
-p{
-    text-align: center;
-}
-
-a{
-    text-decoration: none;
-
-}
-
 #one{
-    font-family: arial;
+    font-size:25px ;
+    line-height: 50px;
 }
 
-#two{
-    font-family: cursive;
+#three{
+    font-size: 10px;
 }
 
