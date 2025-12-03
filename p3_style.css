@@ -4,22 +4,13 @@ div{
     height:100px ;
     width: 100px;
     background-color:coral;
-    border-width:2px ;
-    border-style: dashed;
-    border-color: black;
-    text-align: end;
+    border: 2px solid black;
+    border-radius:25px ;
+   /* text-align: center; */
+    /* padding-left: 25px;
+    padding-bottom:25px ; */
+    padding: 25px;
+    margin-top: 50px;
 }
 
-h1{
-    height: 100px;
-    width: 200px;
-    background-color: aqua;
-    border-width:3px ;
-    border-style: dotted;
-    border-color: brown;
-    text-align: center;
-}
 
-p{
-    font-family: cursive;
-}
