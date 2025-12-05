@@ -6,3 +6,8 @@ div{
     display: inline-block;
 }
 
+#box2{
+    display: none;
+    /* visibility: hidden; */
+}
+
