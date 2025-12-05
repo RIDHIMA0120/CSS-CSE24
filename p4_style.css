@@ -1,9 +1,7 @@
 div{
-    background-color: pink;
-    display: inline;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
 }
 
-button{
-    display: block;
-    background-color: aquamarine;
-}
