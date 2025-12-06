@@ -6,8 +6,17 @@ div{
     display: inline-block;
 }
 
-#box2{
-    display: none;
+#box1{
+/* display: none; */
     /* visibility: hidden; */
+    background-color: rgba(255, 0, 0, 0.5);
+
 }
 
+#box2{
+    background-color: rgba(255, 0, 0, 0.75);
+}
+
+#box3{
+    background-color: rgba(255, 0, 0, 1);
+}
