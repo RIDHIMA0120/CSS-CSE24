@@ -1,22 +1,47 @@
-div{
-    width: 100px;
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button {
+    background-color: #f08804;
+}
+
+#logo {
+    color:#f08804;
+    font-size: 25px;
+
+
+}
+
+a{
+  margin-right: 200px;
+  text-decoration: none;
+}
+
+.contentBox{
     height: 100px;
-    margin: 25px;
-    padding: 25px;
+    width: 100px;
+    border: 2px solid black;
     display: inline-block;
+    text-align: center;
+    margin: 25px;
+    padding: 50px;
 }
 
-#box1{
-/* display: none; */
-    /* visibility: hidden; */
-    background-color: rgba(255, 0, 0, 0.5);
-
+#content{
+    height: 873px;
 }
 
-#box2{
-    background-color: rgba(255, 0, 0, 0.75);
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
 }
 
-#box3{
-    background-color: rgba(255, 0, 0, 1);
-}
