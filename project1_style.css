@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #eaeaea;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: #131921;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff9900;
+}
+
+.navbar input {
+  flex: 1;
+  padding: 8px;
+}
+
+.navbar button {
+  padding: 8px;
+  background: #febd69;
+  border: none;
+}
+
+.nav-links span {
+  margin-left: 15px;
+}
+
+/* CATEGORY BAR */
+.categories {
+  background: #232f3e;
+  color: white;
+  padding: 10px;
+}
+
+.categories span {
+  margin-right: 15px;
+}
+
+/* HERO */
+.hero {
+  background: white;
+  padding: 40px;
+  text-align: center;
+}
+
+/* PRODUCTS */
+.products {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  width: 30%;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card button {
+  margin-top: 100px;
+  padding: 8px;
+  background: #ffd814;
+  border: none;
+}
+
+/* FOOTER */
+footer {
+  background: #131921;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 559px;
+}
